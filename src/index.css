@@ -1,0 +1,224 @@
+*{
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Ruluko', sans-serif;
+
+}
+
+
+.landing{
+  -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+.landing .intro-text h3{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 50px;
+  color: #1B3661;
+  font-family: 'Ruluko', sans-serif;
+  font-weight: 500;
+  margin-top: -50px;
+}
+.landing .intro-text button{
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: 200px;
+  width: 220px;
+    height: 75px;
+    font-size: 35px;
+    border-radius: 13px;
+    border: 0;
+    background-color: #468195;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    margin-top: 90px;
+}
+.imageone{
+  width: 100%;
+  margin-top: -75px;
+  
+}
+.imageonetwo{
+  image-rendering: inherit;
+  position: absolute;
+  margin-top: 470px;
+  margin-left: 100px;
+}
+.center{
+  -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.center .intro-text h3 {
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 60px;
+  color: #1B3661;
+  font-family: 'Ruluko', sans-serif;
+  font-weight: 500;
+  margin-top: 850px;
+}
+.center .intro-text p {
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 1080px;
+    max-width: 600px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.center .intro-text button {
+  cursor: pointer;
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 1300px;
+  width: 230px;
+  height: 75px;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 13px;
+    border: 0;
+    background-color: #468195;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.imagetwo{
+  width: 100%;
+  margin-top: -570px;
+  height: 1000px;
+}
+.imagetwothree{
+  position: absolute;
+  margin-left: 700px;
+  margin-top: -1000px;
+}
+.intro-two .content h3{
+position: relative;
+  left: 75%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 60px;
+  color: #1B3661;
+  font-family: 'Ruluko', sans-serif;
+  font-weight: 500;
+  margin-top: -600px
+}
+.intro-two .content p{
+  position: absolute;
+  left: 75%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 1750px;
+    max-width: 600px;
+    font-family: 'Quicksand', sans-serif;
+}
+.intro-two .content button{
+  cursor: pointer;
+  position: absolute;
+  left: 75%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 1900px;
+  width: 400px;
+  height: 85px;
+    border-radius: 13px;
+    border: 0;
+    background-color: #468195;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.imagethreeone{
+  position: absolute;
+  margin-top: -250px;
+}
+.imagefour{
+  width: 100%;
+  margin-top: 450px;
+  
+}
+.intro-three  h3{
+  position: relative;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 60px;
+  color: #1B3661;
+  font-family: 'Ruluko', sans-serif;
+  font-weight: 500;
+  margin-top: -820px
+}
+.intro-three  p{
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 2700px;
+    max-width: 600px;
+    font-family: 'Quicksand', sans-serif;
+}
+.intro-three  button{
+  cursor: pointer;
+  position: absolute;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 40px;
+  color: #1B3661;
+  font-weight: 500;
+  margin-top: 2860px;
+  width: 220px;
+  height: 75px;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 13px;
+    border: 0;
+    background-color: #468195;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.imagefourone{
+  margin-left: 800px;
+    margin-top: -200px;
+}

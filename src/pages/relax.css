@@ -1,0 +1,33 @@
+
+*{
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Ruluko', sans-serif;
+
+}
+
+.back-image{
+  margin-top: 35px;
+  margin-bottom: -110px;
+  position: relative;
+}
+h3{
+  font-size: 50px;
+    text-align: center;
+    color: #1B3662;
+    margin-top: 130px;
+}
+a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #1B3662;
+  margin-left: 40px;
+}
+.spn{
+  color: #7EA7B4;
+}
+.search{
+  height: 10px;
+  width: 40px;
+  position: absolute;
+  
+}

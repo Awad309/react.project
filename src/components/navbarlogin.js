@@ -1,6 +1,7 @@
 import { Component } from "react"
 import "./Navbar.Styles.css";
 
+
 class Navbarlogin extends Component{
 render(){
     return(
@@ -11,7 +12,7 @@ render(){
         <a href="#community">Community</a>
       </li>
       <li>
-        <a href="#relax">Relax</a>
+        <a href="/relax">Relax</a>
       </li>
       <li>
         <a href="#know more">Know More</a>

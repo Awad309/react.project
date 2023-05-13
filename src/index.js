@@ -10,6 +10,7 @@ import {
 import Home from './pages/home';
 import Homelogin from './pages/homelogin';
 import Settingprofile from './pages/settingprofile'
+import Relax from './pages/relax'
 
 const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
   {
     path: '/settingprofile',
     element:<Settingprofile />,
+  },
+  {
+    path: '/relax',
+    element:<Relax />,
   }
 ]);
 

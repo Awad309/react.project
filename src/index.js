@@ -11,7 +11,10 @@ import Home from './pages/home';
 import Homelogin from './pages/homelogin';
 import Settingprofile from './pages/settingprofile'
 import Relax from './pages/relax'
-
+import Recentlyplayed from './pages/recentlyplayed';
+import Knowmore from './pages/knowmore';
+import Articles from './pages/articles';
+import Articlesreadmore from './pages/articlesreadmore';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -28,6 +31,22 @@ const router = createBrowserRouter([
   {
     path: '/relax',
     element:<Relax />,
+  },
+  {
+    path: '/recentlyplayed',
+    element:<Recentlyplayed />,
+  },
+  {
+    path: '/knowmore',
+    element:<Knowmore />,
+  },
+  {
+    path: '/articles',
+    element:<Articles />,
+  },
+  {
+    path: '/articlesreadmore',
+    element:<Articlesreadmore />,
   }
 ]);
 

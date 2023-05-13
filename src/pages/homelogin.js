@@ -8,6 +8,7 @@ import theImagetwothree from "../images/1.png"
 import theImagethreeone from "../images/2.png"
 import theImagefour from "../images/6.png"
 import theImagefourone from "../images/3.png"
+import Relax from "../pages/relax"
 const Homelogin = () => {
   return (
    <>

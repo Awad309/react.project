@@ -1,5 +1,5 @@
 
-import Navbar from "../components/Navbar"
+import Navbarlogin from "../components/navbarlogin"
 import Foot from "../components/foot"
 import theImageone from "../images/4.png"
 import theImagetwo from "../images/5.png"
@@ -8,10 +8,11 @@ import theImagetwothree from "../images/1.png"
 import theImagethreeone from "../images/2.png"
 import theImagefour from "../images/6.png"
 import theImagefourone from "../images/3.png"
+
 const Home = () => {
   return (
    <>
-   <Navbar />
+   <Navbarlogin />
 
    <section className="home">
   

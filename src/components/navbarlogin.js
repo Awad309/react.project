@@ -15,10 +15,10 @@ render(){
         <a href="/relax">Relax</a>
       </li>
       <li>
-        <a href="#know more">Know More</a>
+        <a href="/knowmore">Know More</a>
       </li>
       <li>
-        <a href="#talk up">Talk Up</a>
+        <a href="/homelogin">Talk Up</a>
       </li>
     </ul>
     <ul className="ultwo">

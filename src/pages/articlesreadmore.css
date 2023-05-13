@@ -1,0 +1,158 @@
+*{
+  font-family: 'Ruluko', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+.one-col{
+  background-color: white;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  border: 1px solid #7EA7B4;
+  
+}
+.one-col .one-a{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.two{
+  background-color: #7EA7B4;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 33%;
+}
+.two .video-two{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.three{
+  background-color: #7EA7B4;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 66%;
+} 
+.three .book-three{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.back-image{
+  margin-top: 35px;
+  margin-bottom: -110px;
+  height: 1600px;
+}
+h3{
+  font-size: 50px;
+    text-align: center;
+    color: #1B3662;
+    margin-top: 130px;
+    font-weight: 400;
+}
+a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #1B3662;
+  margin-left: 40px;
+}
+.spn-spn-spn{
+  color: #5F759F;
+}
+
+.most {
+  margin-top: 225px;
+  position: absolute;
+  margin-left: 150px;
+    font-size: 50px;
+    color: #5F759F;
+    font-weight: 400;
+}
+.search-two{
+  height: 35px;
+  width: 300px;
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border-color: #bdbdc16b;
+}
+
+.search-icon-two{
+  position: absolute;
+  margin-left: 1360px;
+  margin-top: -5px;
+  font-size: 20px;
+}
+.imageone-aaa{
+  position: absolute;
+  width: 500px;
+  margin-top: 340px;
+  margin-left: -750px;
+}
+.writing{
+  color: black;
+  color: black;
+    position: absolute;
+    font-size: 35px;
+    margin-top: 210px;
+    margin-left: 25%;
+}
+.stroid{
+  position: absolute;
+  width: 500px;
+    margin-left: 50%;
+    margin-top: 310px;
+    font-size: 20px;
+}
+.wilderness{
+  position: absolute;
+  font-size: 20px;
+  padding: 120px;
+  margin-top: 730px;
+}
+.self{
+  font-size: 22px;
+    margin-top: 1000px;
+    color: black;
+    margin-left: -960px;
+    font-weight: 500;
+}
+.long{
+  position: absolute;
+  font-size: 20px;
+  padding: 120px;
+margin-top: -110px;
+}
+.does{
+  font-size: 22px;
+  color: black;
+  color: black;
+  margin-left: -960px;
+  font-weight: 500;
+  margin-top: 340px;
+}
+.found{
+  position: absolute;
+  font-size: 20px;
+  padding: 120px;
+margin-top: -110px;
+}

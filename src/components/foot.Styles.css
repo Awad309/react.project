@@ -5,45 +5,45 @@
 }
 
 .foot{
-    position: relative;
-    width: 100%;
-    height: 200px;
-    background-color: #7EA7B4;
-    display: flex;
-    margin-top: 120px;
+  position: relative;
+  width: 100%;
+  height: 245px;
+  background-color: #7EA7B4;
+  display: flex;
+  margin-top: 73px;
 }
-.foot .one{
+.foot .one-one {
     list-style: none;
 text-decoration: none;
-margin-left: 100px;
+margin-left: 70px;
 margin-top: 25px;
 }
-.foot .one li a{
+.foot .one-one li a {
     text-decoration: none;
 margin-bottom: 10px;
 display: flex;
 justify-content: flex-start;
 color: white;
 }
-.foot .two{
+.foot .two-two{
     display: inline-block;
     list-style: none;
     margin-left: 100px;
     margin-top: 25px;
 }
-.foot .two li a{
+.foot .two-two li a{
  text-decoration: none;
 margin-bottom: 10px;
 display: flex;
 justify-content: flex-start;
 color: white;
 }
-.foot .three{
+.foot .three-three{
     list-style: none;
     margin-left: 100px;
     margin-top: 25px;
 }
-.foot .three li a{
+.foot .three-three li a{
     text-decoration: none;
    margin-bottom: 10px;
    display: flex;
@@ -53,11 +53,14 @@ color: white;
 .inter-email{
     position: relative;
     margin-top: -100px;
-    margin-left: 800px;
+    margin-left: 995px;
 }
 .inter-email label{
-    color: white;
-margin-right: 10px;}
+  color: white;
+    margin-right: 5px;
+    margin-top: -35px;
+    position: absolute;
+  }
 .inter-email input{
     height: 30px;
     width: 230px;

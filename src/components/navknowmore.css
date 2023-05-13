@@ -1,0 +1,51 @@
+
+.one{
+  background-color: #7EA7B4;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  
+}
+.one .one-a{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.two{
+  background-color: #7EA7B4;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 33%;
+}
+.two .video-two{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+.three{
+  background-color: #7EA7B4;
+  width: 33%;
+  height: 70px;
+  position: absolute;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 66%;
+} 
+.three .book-three{
+  margin-top: 23px;
+  position: absolute;
+  margin-left: -15px;
+  font-size: 25px;
+  font-weight: bold;
+}

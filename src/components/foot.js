@@ -8,7 +8,7 @@ class foot extends Component{
         return(
             <>
             <div className="foot">
-    <ul className="one">
+    <ul className="one-one">
       <li>
         <a href="#">INFO</a>
       </li>
@@ -28,7 +28,7 @@ class foot extends Component{
         <a href="#">Status</a>
       </li>
     </ul>
-    <ul className="two">
+    <ul className="two-two">
       <li>
         <a href="#">RESOURCES</a>
       </li>
@@ -42,7 +42,7 @@ class foot extends Component{
         <a href="#">Blog</a>
       </li>
     </ul>
-    <ul className="three">
+    <ul className="three-three">
       <li>
         <a href="#">COMPANY</a>
       </li>
